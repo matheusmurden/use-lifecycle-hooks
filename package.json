@@ -1,5 +1,5 @@
 {
-  "name": "use-lifecycle-hooks",
+  "name": "@murden.dev/lifecycle-hooks",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "version": "0.0.1",
   "main": "index.js",
