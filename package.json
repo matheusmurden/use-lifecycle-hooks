@@ -15,5 +15,13 @@
     "hooks"
   ],
   "author": "murden.dev",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusmurden/use-lifecycle-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matheusmurden/use-lifecycle-hooks/issues"
+  },
+  "homepage": "https://github.com/matheusmurden/use-lifecycle-hooks#readme"
 }
