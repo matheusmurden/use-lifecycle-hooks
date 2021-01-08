@@ -7,7 +7,9 @@ For those that are transitioning from React Class Components or maybe just want 
 
 ### 1. Install package
 
-`npm install @murden.dev/lifecycle-hooks`
+```console
+npm install @murden.dev/lifecycle-hooks
+```
 
 ### 2. Import package and enjoy lifecycle-hooks :)
 
