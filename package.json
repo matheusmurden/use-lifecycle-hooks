@@ -1,7 +1,7 @@
 {
   "name": "@murden.dev/lifecycle-hooks",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "version": "0.0.1",
+  "description": "React Class Components lifecycle methods written as React Hooks for those that are transitioning from React Class Components or maybe just want a little more legibility in their code.",
+  "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
     "react": "^17.0.1"
