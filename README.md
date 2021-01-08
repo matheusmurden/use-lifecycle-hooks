@@ -12,7 +12,7 @@ For those that are transitioning from React Class Components or maybe just want 
 ### 2. Import package and enjoy lifecycle-hooks :)
 
 ```js
-import { useOnMount, useOnUnmount, useOnUpdate } from 'murden.dev/lifecycle-hooks'
+import { useOnMount, useOnUnmount, useOnUpdate } from '@murden.dev/lifecycle-hooks'
 
 const Component = () => {
 
